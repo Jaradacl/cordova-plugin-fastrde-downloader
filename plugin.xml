@@ -13,7 +13,7 @@
 	<dependency id="cordova-plugin-zip" version="3.1.0" />
 	<dependency id="de.fastr.phonegap.plugins.md5chksum" 
 	    	url="https://github.com/Jaradacl/cordova-plugin-fastrde-md5.git"
-		commit="95c3ae57af2edf06eaddc895c3d56ed4a11e7f7e"
+		commit="3a0334d45eda994c76011cb3c61aa4bade844f57"
 	    	version="0.1.3" />
 
 	<js-module src="www/downloader.min.js" name="downloader">
